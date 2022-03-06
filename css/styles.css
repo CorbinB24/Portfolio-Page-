@@ -31,3 +31,9 @@
 .orange-border {
   border: 1px solid green;
 }
+
+.jumbotron {
+  background-image: url("/img/ocean.jpg");
+  background-size: cover;
+  object-fit: cover;
+}
